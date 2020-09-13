@@ -555,4 +555,4 @@
 	name = "fart-flops"
 	icon_state = "tourist"
 	step_sound = list('sound/voice/farts/poo2.ogg','sound/voice/farts/fart4.ogg','sound/voice/farts/poo2_robot.ogg')
-	desc = "Do I really need to tell you what these do?"
+	desc = "Do I really need to tell you what these do? No I don't"
